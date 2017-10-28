@@ -1,2 +1,4 @@
 こんにちは。SourceTree
 LAPTOPからのコミットです。
+lenovoからのコミットです。
+
